@@ -1,0 +1,46 @@
+# ============================================================
+# GitHub Actions Workflow
+# Runs the Boston Planning scraper automatically every day
+# ============================================================
+
+name: Daily Boston Planning Check
+
+on:
+  schedule:
+    # Runs every weekday at 6:00 PM EST (23:00 UTC)
+    # Boston Planning posts approvals during business hours,
+    # so an evening check catches anything approved that day.
+    - cron: "0 23 * * 1-5"
+
+  # Also lets you trigger it manually from GitHub if needed
+  workflow_dispatch:
+
+jobs:
+  check-approvals:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Pull your code from the repo
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2. Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install playwright nest_asyncio google-genai requests
+          playwright install chromium
+          playwright install-deps chromium
+
+      # 4. Run the scraper
+      #    API keys are stored safely in GitHub Secrets — never in the code
+      - name: Run daily approval check
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: python scraper.py
