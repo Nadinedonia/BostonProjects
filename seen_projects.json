@@ -1,0 +1,156 @@
+{
+  "initialized": true,
+  "last_run_utc": "2026-08-04T15:24:53+00:00",
+  "seen": {
+    "11-avenue-de-lafayette": {
+      "alerted": false,
+      "approval_date": "2026-06-18",
+      "name": "11 Avenue De Lafayette"
+    },
+    "1200-soldiers-field-road": {
+      "alerted": false,
+      "approval_date": "2026-07-16",
+      "name": "1200 Soldiers Field Road"
+    },
+    "1702-hyde-park-avenue": {
+      "alerted": false,
+      "approval_date": "2026-04-16",
+      "name": "1702 Hyde Park Avenue"
+    },
+    "172-western-avenue": {
+      "alerted": false,
+      "approval_date": "2026-06-18",
+      "name": "172 Western Avenue"
+    },
+    "190-bowdoin-street": {
+      "alerted": false,
+      "approval_date": "2026-02-12",
+      "name": "190 Bowdoin Street"
+    },
+    "201-rutherford-avenue": {
+      "alerted": false,
+      "approval_date": "2026-04-16",
+      "name": "201 Rutherford Avenue"
+    },
+    "24-mt-everett-street": {
+      "alerted": false,
+      "approval_date": "2026-06-18",
+      "name": "24 Mt. Everett Street"
+    },
+    "275-e-cottage-street": {
+      "alerted": false,
+      "approval_date": "2026-07-16",
+      "name": "275 E Cottage Street"
+    },
+    "280-300-washington-street": {
+      "alerted": false,
+      "approval_date": "2026-03-19",
+      "name": "280-300 Washington Street"
+    },
+    "320-summer-street": {
+      "alerted": false,
+      "approval_date": "2026-05-14",
+      "name": "320 Summer Street"
+    },
+    "3326-washington-street": {
+      "alerted": false,
+      "approval_date": "2026-07-16",
+      "name": "3326 Washington Street"
+    },
+    "34-36-pratt-street": {
+      "alerted": false,
+      "approval_date": "2026-07-16",
+      "name": "34-36 Pratt Street"
+    },
+    "3841-washington-street": {
+      "alerted": false,
+      "approval_date": "2026-07-16",
+      "name": "3841 Washington Street"
+    },
+    "419-boylston-street": {
+      "alerted": false,
+      "approval_date": "2026-05-14",
+      "name": "419 Boylston Street"
+    },
+    "4301-washington-street": {
+      "alerted": false,
+      "approval_date": "2026-07-16",
+      "name": "4301 Washington Street"
+    },
+    "4487-washington-street": {
+      "alerted": false,
+      "approval_date": "2026-04-16",
+      "name": "4487 Washington Street"
+    },
+    "460-west-broadway": {
+      "alerted": false,
+      "approval_date": "2026-04-16",
+      "name": "460 West Broadway"
+    },
+    "50-congress-street": {
+      "alerted": false,
+      "approval_date": "2026-05-14",
+      "name": "50 Congress Street"
+    },
+    "662-666-east-broadway": {
+      "alerted": false,
+      "approval_date": "2026-06-18",
+      "name": "662-666 East Broadway"
+    },
+    "69-a-street": {
+      "alerted": false,
+      "approval_date": "2026-03-19",
+      "name": "69 A Street"
+    },
+    "776-summer-street-phase-2": {
+      "alerted": false,
+      "approval_date": "2026-06-18",
+      "name": "776 Summer Street - Phase 2"
+    },
+    "85-parker-hill-avenue": {
+      "alerted": false,
+      "approval_date": "2026-07-16",
+      "name": "85 Parker Hill Avenue"
+    },
+    "9-chelsea-street": {
+      "alerted": false,
+      "approval_date": "2026-07-16",
+      "name": "9 Chelsea Street"
+    },
+    "90-braintree-street": {
+      "alerted": false,
+      "approval_date": "2026-05-14",
+      "name": "90 Braintree Street"
+    },
+    "bartlett-place-building-c": {
+      "alerted": false,
+      "approval_date": "2026-05-14",
+      "name": "Bartlett Station | Lot C"
+    },
+    "drexel-village": {
+      "alerted": false,
+      "approval_date": "2026-04-16",
+      "name": "Drexel Village"
+    },
+    "longwood-place-phase-one": {
+      "alerted": false,
+      "approval_date": "2026-04-16",
+      "name": "Longwood Place Phase One"
+    },
+    "olmsted-village": {
+      "alerted": false,
+      "approval_date": "2026-03-19",
+      "name": "Olmsted Village"
+    },
+    "one-state-street": {
+      "alerted": false,
+      "approval_date": "2026-05-14",
+      "name": "One State Street"
+    },
+    "west-end-library": {
+      "alerted": false,
+      "approval_date": "2026-05-14",
+      "name": "West End Library"
+    }
+  }
+}
