@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_run_utc": "2026-08-14T14:15:44+00:00",
+  "last_run_utc": "2026-08-14T21:48:03+00:00",
   "seen": {
     "11-avenue-de-lafayette": {
       "alerted": false,
@@ -11,6 +11,16 @@
       "alerted": false,
       "approval_date": "2026-07-16",
       "name": "1200 Soldiers Field Road"
+    },
+    "14-18-hannon-street": {
+      "alerted": true,
+      "approval_date": "2026-08-13",
+      "name": "14-18 Hannon Street"
+    },
+    "1590-blue-hill-avenue": {
+      "alerted": true,
+      "approval_date": "2026-08-13",
+      "name": "1590 Blue Hill Avenue"
     },
     "1702-hyde-park-avenue": {
       "alerted": false,
@@ -26,6 +36,11 @@
       "alerted": false,
       "approval_date": "2026-02-12",
       "name": "190 Bowdoin Street"
+    },
+    "2-shawsheen-road": {
+      "alerted": true,
+      "approval_date": "2026-08-13",
+      "name": "2 Shawsheen Road"
     },
     "201-rutherford-avenue": {
       "alerted": false,
@@ -62,6 +77,11 @@
       "approval_date": "2026-07-16",
       "name": "34-36 Pratt Street"
     },
+    "350-west-fourth-street": {
+      "alerted": true,
+      "approval_date": "2026-08-13",
+      "name": "350 West Fourth Street"
+    },
     "3841-washington-street": {
       "alerted": false,
       "approval_date": "2026-07-16",
@@ -81,6 +101,11 @@
       "alerted": false,
       "approval_date": "2026-04-16",
       "name": "4487 Washington Street"
+    },
+    "45-townsend-street": {
+      "alerted": true,
+      "approval_date": "2026-08-13",
+      "name": "45 Townsend Street"
     },
     "460-west-broadway": {
       "alerted": false,
