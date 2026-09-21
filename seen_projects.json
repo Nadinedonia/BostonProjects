@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_run_utc": "2026-09-20T23:20:58+00:00",
+  "last_run_utc": "2026-09-21T18:30:13+00:00",
   "seen": {
     "11-avenue-de-lafayette": {
       "alerted": false,
@@ -46,6 +46,11 @@
       "alerted": false,
       "approval_date": "2026-04-16",
       "name": "201 Rutherford Avenue"
+    },
+    "2062-dorchester-avenue": {
+      "alerted": true,
+      "approval_date": "2026-09-17",
+      "name": "2062 Dorchester Avenue"
     },
     "24-mt-everett-street": {
       "alerted": false,
