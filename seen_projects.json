@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_run_utc": "2026-09-29T01:07:06+00:00",
+  "last_run_utc": "2026-09-29T18:28:16+00:00",
   "seen": {
     "11-avenue-de-lafayette": {
       "alerted": false,
@@ -131,6 +131,11 @@
       "alerted": false,
       "approval_date": "2026-03-19",
       "name": "69 A Street"
+    },
+    "697-cambridge-street": {
+      "alerted": true,
+      "approval_date": "2026-09-17",
+      "name": "697 Cambridge Street"
     },
     "776-summer-street-phase-2": {
       "alerted": false,
